@@ -1,0 +1,25 @@
+{
+  "name": "webstorm",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bayes-classifier": "0.0.5",
+    "body-parser": "~1.18.2",
+    "botbuilder": "^3.13.0",
+    "botbuilder-azure": "^3.0.4",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "decision-tree": "^0.3.1",
+    "express": "~4.15.5",
+    "jade": "~1.11.0",
+    "mongodb": "^3.0.0-rc0",
+    "morgan": "~1.9.0",
+    "node-decision-tree": "^0.1.2",
+    "operational-decision-tree": "^4.0.2",
+    "restify": "^6.3.4",
+    "serve-favicon": "~2.4.5"
+  }
+}
